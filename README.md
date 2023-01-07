@@ -2,7 +2,6 @@
 <h2> 👋 Hi, I'm Stephen Schatzl! 🦔 </h2>
 <img align='right' src="professional-picture.jpg" width="230">
 <p><em> Engineer Graduate at <a href="https://www.plymouth.edu/">Plymouth State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>
 Lead Platform Engineer at <a href="https://www.mercedes-benz-mobility.com/en/">Mercedes-benz Automotive Mobility</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
